@@ -11,12 +11,19 @@ BMS 테마 코스 시리즈의 코스파일들을 모아둔곳입니다
 https://docs.google.com/spreadsheets/d/1O3fVlqYawSGATr8dCkWK9rN5strSBp1drFNHo7IUcq0/edit?usp=sharing
 
 
+코스현황
+
+S1-1 あとぅすのプロポーズシリーズ
+    atos's propoze series 
+    아토스의 프로포즈 시리즈 
+    코스 3개
+    
+S1-2 ?
 
 
 
 
 
-
-이 Table Template 을 포함하여 생성에 큰 도움을 주신 DARK SABUN 관리자이신 parksu님에게도 감사합니다
+이 Table Template 의 제작자을 포함하여 생성에 큰 도움을 주신 DARK SABUN 관리자이신 parksu님에게도 감사합니다
 
 
