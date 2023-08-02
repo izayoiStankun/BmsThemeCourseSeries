@@ -23,7 +23,7 @@
       },
       {
         "name": "S1 あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
-        "constraint": ["grade_CLASS", "gauge_7KEYS" ],
+        "constraint": ["grade_CLASS", "gauge_7KEYS"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
           { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
