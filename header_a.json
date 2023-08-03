@@ -1,5 +1,8 @@
 {
 "name": "Theme Course series",
+"symbol": "TC",
+"data_url": "data.json",
+"compat_prefix": "TC",
 "course": [
 	{
 		"class": "bms.player.beatoraja.CourseData",
