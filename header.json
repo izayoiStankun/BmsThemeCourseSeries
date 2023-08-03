@@ -1,8 +1,8 @@
 {
-  "name": "BMS THEME COURSE series",
+  "name": "Theme Course series",
   "symbol": "TC",
   "data_url": "data.json",
-  "compat_prefix": "TC",
+  "compat_prefix": "T",
   "course": [
     [
       {
