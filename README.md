@@ -8,3 +8,6 @@
 https://docs.google.com/spreadsheets/d/1O3fVlqYawSGATr8dCkWK9rN5strSBp1drFNHo7IUcq0/edit?usp=sharing
 
 기술적 지원을 도와주신 DARK SABUN 관리자와 이 탬플릿의 제작자에게도 감사드립니다.
+
+난이도표 링크
+https://izayoistankun.github.io/BmsThemeCourseSeries/
