@@ -1,7 +1,7 @@
 {
 "name": "Theme Course series",
 "symbol": "TC",
-"data_url": "data.json",
+"data_url": "",
 "compat_prefix": "TC",
 "course": [
 	{
