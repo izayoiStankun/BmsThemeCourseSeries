@@ -5,7 +5,7 @@
 "course": [
     [
       {
-        "name": "1 あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
+        "name": "あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50 },
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "name": "2 あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
+        "name": "あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55 },
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "3 あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
+        "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60 },
