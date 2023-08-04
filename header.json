@@ -2,4 +2,57 @@
 "name" : "Bms Theme Course series",
 "symbol" : "TC",
 "data_url" : "https://script.google.com/macros/s/AKfycbxLa0sjLG4tEI7NA3RPkCD7dtvuME2OYQsxVBhKqAr_SHcVTO85boJjj3uZYM-GTpg4lg/exec",
+"course": [
+    [
+      {
+        "name": "1 あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9, "scorerate": 50 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "1f383f6c8873245a8b80c37623edf5ac",
+          "0c401722e4180853f31719ff28d0c49e",
+          "cb8e996311399ec41ca2c5aa5ed8a66e",
+          "89f77c7054b0dbbad3bfa97585813c0a",
+          "bb1af8dfe90b8cc135fed613a7888190"
+        ]
+      },
+      {
+        "name": "2 あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "900ba4c7fcb22ae4fa3574f07bcaf1fd",
+          "dfb188bcf9506f9f00626c5263a84366",
+          "1c92f941b47220c228b10caa5f54a7c6",
+          "152868a80cee75a86411bdc60c68dd36",
+          "1cd29c630f0857f7a9cc5edb00e29a0b"
+        ]
+      },
+      {
+        "name": "3 あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6, "scorerate": 60 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "4477569e9d0bee33ad929ec1cf0de878",
+          "f57c93ffabedb60b76a9f51f26aa84c7",
+          "d1c385f99b7a276c407a80280aa3fa7d",
+          "e1471b2ec2de2a67c3aaff31a1f60011",
+          "39451b7b2ef9310b5d9685c07fb2fd42"
+        ]
+      }
+    ]
+  ]
+
 }
