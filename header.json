@@ -1,7 +1,7 @@
 {
   "name": "Theme Course series",
   "symbol": "TC",
-  "data_url": "data.json",
+  "data_url": "https://script.googleusercontent.com/macros/echo?user_content_key=OO_mUvu4MYB3bydloemDYLx8Qrgw7BsBsmmAwPch0_ItUFQy9wodG7AcLNkL3_8GNUOtB-pWrV-vvRDv1uI5m-782TIj06Osm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnBiEvsp9Tq5TvwQQgXpE9mm8rbcS47yTXacS9zb-B-1XUGQjcLzvzfqFpetB-f4C03Jm_9AX1cAynGmHR6Lql6J6_-r24uLx1Nz9Jw9Md8uu&lib=MgS3NjJ8L3R_2HoyJsiqOZl3ReNJiYnpU",
   "compat_prefix": "TC",
   "course": [
     [
