@@ -8,7 +8,7 @@
         "name": "あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
-          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50 },
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
           { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
           { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
         ],
@@ -24,7 +24,7 @@
         "name": "あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
-          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55 },
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
           { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
@@ -40,7 +40,7 @@
         "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
         "constraint": ["CLASS", "gauge_7k"],
         "trophy": [
-          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60 },
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
           { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
           { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
         ],
