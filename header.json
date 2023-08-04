@@ -8,7 +8,7 @@
     [
       {
         "name": "あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
-        "constraint": ["grade_class", "gauge_lr2"],
+        "constraint": ["grade_class", "gauge_7k"],
         "trophy": [
           { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
           { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
