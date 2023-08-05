@@ -6,7 +6,7 @@
     [
       {
         "name": "あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
-        "constraint": ["CLASS", "gauge_7k"],
+        "constraint": ["grade_CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
           { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
@@ -22,7 +22,7 @@
       },
       {
         "name": "あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
-        "constraint": ["CLASS", "gauge_7k"],
+        "constraint": ["grade_CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
           { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
@@ -38,7 +38,7 @@
       },
       {
         "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
-        "constraint": ["CLASS", "gauge_7k"],
+        "constraint": ["grade_CLASS", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
           { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
@@ -52,6 +52,23 @@
           "39451b7b2ef9310b5d9685c07fb2fd42"
         ]
       }
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.1",
+        "constraint": ["grade_CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "3bff7f305a2ffd1b189bbb36c8892ac3",
+          "8b46a5505155123b90c484cce480c069",
+          "0a0a529e24af58e55561df44f3ace4c2",
+          "4715cda209c8b46475dc6c3e0eca41c1",
+          "e845cb035ece5655907f77d6ec495fb6"
+        ]
+      }
+
     ]
   ]
 }
