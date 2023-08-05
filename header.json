@@ -51,6 +51,70 @@
           "e1471b2ec2de2a67c3aaff31a1f60011",
           "39451b7b2ef9310b5d9685c07fb2fd42"
         ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.1",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "3bff7f305a2ffd1b189bbb36c8892ac3",
+          "8b46a5505155123b90c484cce480c069",
+          "0a0a529e24af58e55561df44f3ace4c2",
+          "4715cda209c8b46475dc6c3e0eca41c1",
+          "e845cb035ece5655907f77d6ec495fb6"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.2",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "9fb06a629c1dc3323107a11671665910",
+          "b7c4b2b39c5cc94883148c9020ef8a84",
+          "35940de949dede743c6691753955cec2",
+          "759408e8a0549292963b2948f67111f3",
+          "7bc133cb61747bed7ddc88c9eddddbf5"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.3",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "7cda74bdd1200b49a77a802ec3772f64",
+          "2dbea18093752099ed1252a64d077697",
+          "b33eba5c086f41ab89b78207f3b301b9",
+          "e88320b832e16b0ef79e40674d3af2c2",
+          "d93d26ea51b78bc9b000b24aae30eabd"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.MAX",
+        "constraint": ["CLASS", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "70120d2889c1e30252289b4e95e1f0c6",
+          "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+          "c2662bad732fe327afd467c1f628fe63",
+          "a0a6198fba3f1354c9279a190b81ba48",
+          "40245d0384a485fe1a2ffec75095f626"
+        ]
       }
     ]
   ]
