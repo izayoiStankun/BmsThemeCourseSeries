@@ -52,6 +52,8 @@
           "39451b7b2ef9310b5d9685c07fb2fd42"
         ]
       },
+
+
       {
         "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.1",
         "constraint": ["grade_random", "gauge_7k"],
@@ -114,6 +116,72 @@
           "c2662bad732fe327afd467c1f628fe63",
           "a0a6198fba3f1354c9279a190b81ba48",
           "40245d0384a485fe1a2ffec75095f626"
+        ]
+      },
+
+
+ 	{
+        "name": "ピアノの物語 序章 : 森の中 まぼろしの世へ 進もう",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "b349498ca664a67e9591be23fdfab146",
+          "fffd70b5a4c63371d1ecb52c371d4f3f",
+          "70c4f053064133736562ad85ffdeca16",
+          "30882661a8f75e25c5a955d4c4f092e1",
+          "ac2254df689384e058faec4679229790"
+        ]
+      },
+      {
+        "name": "ピアノの物語 2章 :始と終 君と見ていた 花の丘",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "1444f6dfaa7fd802586af5b331bac1ca",
+          "f47f11c37c8d4e14ac5c850c38b9446d",
+          "254a9ba212e291b0c3a5e3c5fdba921c",
+          "c0f71dae2354859ed254389e8eafa8e2",
+          "44c0c0b31e8fce99d8f0232ef0d6286c"
+        ]
+      },
+      {
+        "name": "ピアノの物語 3章 :激動の 苦してるでも 前進に",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "d66813093569ae2ad43626ca04be5582",
+          "fb165dee16703cd3828916a2d8ad00f2",
+          "ce7b401b88f1d0fd7322ef5cf31303e5",
+          "752416e9df6c196cb2e8bca35a391d45",
+          "df580c12ea6b9415d3c4e7c8a41cd6e1"
+        ]
+      },
+      {
+        "name": "ピアノの物語 4章 : 蛤の ふたみにわかれ 行く秋ぞ",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "b271ed8ceff2e397773c8bda982f2cc9",
+          "877f4a37193f789cf1dee377c3774282",
+          "7850a7c5a36681106e68e1cd0603af21",
+          "938acecd03ff1f0a178abfebb1ed1f2b",
+          "bb91cef81d13b8d1146b0dbfeb4450f8"
         ]
       }
     ]
