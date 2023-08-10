@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~",
+        "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~[FIXED]",
         "constraint": ["grade_random", "gauge_7k"],
         "trophy": [
           { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
@@ -46,13 +46,27 @@
         ],
         "md5": [
           "4477569e9d0bee33ad929ec1cf0de878",
+          "d822f7e546e307f231edff73400737d1",
           "f57c93ffabedb60b76a9f51f26aa84c7",
-          "d1c385f99b7a276c407a80280aa3fa7d",
-          "e1471b2ec2de2a67c3aaff31a1f60011",
-          "39451b7b2ef9310b5d9685c07fb2fd42"
+          "d1c385f99b7a276c407a80280aa3fa7d"
         ]
       },
-
+      {
+        "name": "あとぅすのプロポーズシリーズ ~終わらない宇宙の果てに向かう旅人~",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "7c619937f0448c48e4b7de0c5da8940c",
+          "e1471b2ec2de2a67c3aaff31a1f60011",
+          "39451b7b2ef9310b5d9685c07fb2fd42",
+          "9076c384d78d4b5f77a2517a7b06e506",
+          "59ee16a8325b5fc5978f1e465b76d844"
+        ]
+      },
 
       {
         "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.1",
