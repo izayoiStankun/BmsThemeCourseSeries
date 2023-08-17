@@ -197,7 +197,52 @@
           "938acecd03ff1f0a178abfebb1ed1f2b",
           "bb91cef81d13b8d1146b0dbfeb4450f8"
         ]
-      }
+      },
+	{
+        "name": "[THE legendary PEPSI COLA SWORD]",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "5e72be4ac64c0536a7e07ff6e133cdbd",
+          "36eb194314795da5a86c2786bed987f3",
+          "6c9e696aa2daa27e41b6699ffb4a6729",
+          "211fe8e2962ff3cdcc51ee22cfd4ca55"
+        ]
+      },
+      {
+        "name": "Fall in BLASS, Have nice Goodlife",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "b4b96c419fa0b3b60389abadb1be7af9",
+          "98a9286c56a67b866c0caf1f03f113a9",
+          "e67706ccd36daa792149cdfb5bf93538",
+          "228e20a9cd8e4af8ef15233c44ba66bb"
+        ]
+      },
+      {
+        "name": "[THE LEGENDARY PEPSI STRONG COLA SWORD]",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "0e63a8300f5986dc749d02462e8609e4",
+          "ccafe6520d23ea62e6525d374e147dee",
+          "0fd57c10d093b4e4210deeb7b91afc01",
+          "6ef89e6bcd54acc71d44b766972513d9"
+        ]
+      },
     ]
   ]
 }
