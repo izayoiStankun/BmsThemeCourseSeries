@@ -133,8 +133,7 @@
         ]
       },
 
-
- 	{
+     	{
         "name": "ピアノの物語 序章 : 森の中 まぼろしの世へ 進もう",
         "constraint": ["grade_random", "gauge_7k"],
         "trophy": [
@@ -198,7 +197,8 @@
           "bb91cef81d13b8d1146b0dbfeb4450f8"
         ]
       },
-	{
+
+	   {
         "name": "[THE legendary PEPSI COLA SWORD]",
         "constraint": ["grade_random", "gauge_7k"],
         "trophy": [
@@ -242,7 +242,117 @@
           "0fd57c10d093b4e4210deeb7b91afc01",
           "6ef89e6bcd54acc71d44b766972513d9"
         ]
-      }
+      },
+
+  {
+        "name": "Do YoU KNoW GARAM MASALA?",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "d89ea641d2ae9502d43f6905a5ede5a0",
+          "9656746c8daaeb7c568cced3da769e18",
+          "e8f3ffafe1a1a8c84ed2d2cb380d324d",
+          "73395275177496a244eef87cc2ee63c1",
+          "d1a5b9b43147a550a65f46507b3444a5"
+        ]
+      },
+      {
+        "name": "吹雪に揺られる花たちは涙を呑む",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "df86a7fc761a23589f4ce8160fcd578e",
+          "bcadd3e68c4c07416f3c1bf8f8f45c10",
+          "21e6d4b06d81b602b1a0cb190d2d83e0",
+          "838b021a6c4fac7f36d62c83a9afeb30",
+          "b0f890ed64a4c43513d4c0d698b77dbf"
+        ]
+      },
+      {
+        "name": "僕らのイチゴショットケーキ戦争",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "e076bb9acc462276ac7f273f073ad34b",
+          "043880563155d8763a33660bfda32c23",
+          "d783d45b7229daf47d4ce41d88faa3d4",
+          "61519b432a4912f0b8d3258803b02ea1",
+          "ddb2c34e1543c219c4b251b13671be1f"
+        ]
+      },
+      {
+        "name": "THE LEGENDLY OF PUNAI STORY",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "522ce11990d09b94e515b653705be4fd",
+          "e92a248bd8131fcc94dcd81cf0a0bdd1",
+          "f52a29ece44c140f9692f85af24ae657"
+        ]
+      },
+      {
+        "name": "Happy Golden weeeeeekend",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "268508cd8f9da505d7069fe3c57370fc",
+          "64e3148d9b0d0bec242b026af08f1125",
+          "5a7f422b05a7867ccdd47f10ebe31907",
+          "ad6180fee0369366d933472ad6080ec4",
+          "e44166113b52b63f9330d435761ce52f"
+        ]
+      },
+     {
+        "name": "I am become Death, the destroyer of worlds.",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "6d5197c9e4702027663da3d4ccde7e3e",
+          "906ea3be1e23273830fe5a1405200e52",
+          "9a8e87868c57cedbf54167f3a826b141",
+          "e5c37ffef1401274cfc59110df6b0b86",
+          "2c809e2b33ca75c15d8c56bf81913dc1"
+        ]
+      },
+      {
+        "name": "日曜日 朝8：00",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "43e0400fb9e0d9873c1188bf1482c9e2",
+          "0c230998d79172a569b9d347f54a63fd",
+          "1d5b027340a6351030117fc4e7f13deb"
+        ]
+      },
+
     ]
   ]
 }
