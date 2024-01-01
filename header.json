@@ -351,6 +351,55 @@
           "0c230998d79172a569b9d347f54a63fd",
           "1d5b027340a6351030117fc4e7f13deb"
         ]
+      },
+	   {
+        "name": "Oh-Do'h BONGO",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "facc39ec959b48b4df7158e162e22146",
+          "127570fd2ca0f9dc3395ac78763cf496",
+          "368ba1adfab150bd54b7905c7f62706b",
+          "562308fb53613a8baf25784394409709",
+          "f5ab0ec3ada57f8ef4eafd6506712c90"
+        ]
+      },
+      {
+        "name": "POTER SAM BRIGES",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "ede57aeeaa87ea18c4bffa31aa6c19c0",
+          "e1dcd6b4ab63bfec65fd053d868911fe",
+          "0108ff92119d48e0ca0e2eae1f3dffbf",
+          "bcbdac0287dc4adad7e0103eb5120c46",
+          "b67c0f0b5da347f94eae1119b1158ec9"
+        ]
+      },
+      {
+        "name": "MIGHTY NO.22234",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "f872dd65dd08638b06d80470a3233fb9",
+          "dfda2cdf3527b470e8951ba285d6bc28",
+          "df84cff13642ddc8903fccaeb36c92f9",
+          "d4be913786b347383b6f2691dd9a3259",
+          "684df5ad9c4ae413dc58246316a9cd43",
+	
+        ]
       }
 
     ]
